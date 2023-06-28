@@ -1,0 +1,239 @@
+       
+        img {
+            align-content: center;
+            width: 100px;
+            border-radius: 50px ;
+            float: left;
+            margin-top: 10px;
+            margin-right: 10px;
+        }
+        em{
+            color :rgb(57, 30, 210);
+            font-style:oblique;
+        }.uber1-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber1-button:hover {
+    opacity: 0.8;
+  }
+        .uber2-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber2-button:hover {
+    opacity: 0.8;
+  }
+  .uber3-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber3-button:hover {
+    opacity: 0.8;
+  }
+  .uber4-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber4-button:hover {
+    opacity: 0.8;
+  }
+  .uber5-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber5-button:hover {
+    opacity: 0.8;
+  }
+  .uber6-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber6-button:hover {
+    opacity: 0.8;
+  }
+  .uber7-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 200px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber7-button:hover {
+    opacity: 0.8;
+  }
+  .uber8-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber8-button:hover {
+    opacity: 0.8;
+  }
+  .uber9-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 190px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber9-button:hover {
+    opacity: 0.8;
+  }
+  .uber10-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber10-button:hover {
+    opacity: 0.8;
+  }
+  .uber11-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 250px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber11-button:hover {
+    opacity: 0.8;
+  }
+  .uber12-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber12-button:hover {
+    opacity: 0.8;
+  }
+  .uber13-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 150px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber13-button:hover {
+    opacity: 0.8;
+  }
+  .uber14-button {
+      background-color: palegreen;
+      color: black;
+      border: none;
+      height: 40px;
+      width: 110px;
+      padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .uber14-button:hover {
+    opacity: 0.8;
+  }
+
+ 
+   
